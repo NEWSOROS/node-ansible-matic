@@ -1,6 +1,6 @@
 ---
-ansible_user: ubuntu
+ansible_user: matic
 network: mainnet
-node_type: sentry
-bor_version: v0.3.3
-heimdall_version: v0.3.0
+node_type: archive
+bor_version: v1.0.4
+heimdall_version: v1.0.1
